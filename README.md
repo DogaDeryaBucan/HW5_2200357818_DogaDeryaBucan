@@ -48,11 +48,15 @@ scikit-learn
 jupyter notebook
 ```
 
+## How to Run
+1.Open the notebook in Google Colab or Jupyter.
+2.Run the code.
+
+## GITHUB
+ https://github.com/DogaDeryaBucan/HW5_2200357818_DogaDeryaBucan
+ 
 ```bash
 git clone https://github.com/DogaDeryaBucan/HW5_2200357818_DogaDeryaBucan.git
- ```
-
-```bash
 cd HW5_2200357818_DogaDeryaBucan
 ```
 
