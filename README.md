@@ -37,19 +37,11 @@ This project is a hands-on exploration of **Support Vector Machines (SVMs)** usi
 └── requirements.txt             # List of Python libraries required to run the notebook (e.g., numpy, matplotlib, scikit-learn)
 
 
-##  How to Run
+git clone https://github.com/DogaDeryaBucan/HW5_2200357818_DogaDeryaBucan.git
+cd HW5_2200357818_DogaDeryaBucan
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DogaDeryaBucan/HW5_2200357818_DogaDeryaBucan
-   cd svm-playground
-
-## ⚙️ Installation and Execution
-
-### 📦 Install dependencies
-
-```bash
 pip install -r requirements.txt
+
 
 
 
