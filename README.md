@@ -36,9 +36,11 @@ This project is a hands-on exploration of **Support Vector Machines (SVMs)** usi
 ├── README.md                    # Project overview, task explanations, and theoretical insights
 └── requirements.txt             # List of Python libraries required to run the notebook (e.g., numpy, matplotlib, scikit-learn)
 ```
-```text
+```bash
 git clone https://github.com/DogaDeryaBucan/HW5_2200357818_DogaDeryaBucan.git
+ ```
 
+```bash
 cd HW5_2200357818_DogaDeryaBucan
 ```
 
