@@ -1,6 +1,6 @@
 # HW5_2200357818_DogaDeryaBucan
 
-# SVM Playground: Linear vs Nonlinear Classification
+# SVM  Linear vs Nonlinear Classification
 
 This project is a hands-on exploration of **Support Vector Machines (SVMs)** using toy data that is **not linearly separable**. It demonstrates the **limitations of linear SVMs** and how **non-linear kernels (RBF)** solve complex classification problems.
 
@@ -35,6 +35,11 @@ This project is a hands-on exploration of **Support Vector Machines (SVMs)** usi
 ├── svm_experiment.ipynb         # Jupyter notebook with Python code, SVM implementation, and visualizations
 ├── README.md                    # Project overview, task explanations, and theoretical insights
 └── requirements.txt             # List of Python libraries required to run the notebook (e.g., numpy, matplotlib, scikit-learn)
+
+
+git clone https://github.com/DogaDeryaBucan/HW5_2200357818_DogaDeryaBucan.git
+cd HW5_2200357818_DogaDeryaBucan
+
 
 
 
