@@ -28,18 +28,8 @@ This project is a hands-on exploration of **Support Vector Machines (SVMs)** usi
 - `scikit-learn`
 - `mpl_toolkits` (for 3D plots)
 
-## File Structure
-
-```text
-.
-├── svm_experiment.ipynb         # Jupyter notebook with Python code, SVM implementation, and visualizations
-├── README.md                    # Project overview, task explanations, and theoretical insights
-└── requirements.txt             # List of Python libraries required to run the notebook (e.g., numpy, matplotlib, scikit-learn)
-
-
 git clone https://github.com/DogaDeryaBucan/HW5_2200357818_DogaDeryaBucan.git
 cd HW5_2200357818_DogaDeryaBucan
-
 
 
 
