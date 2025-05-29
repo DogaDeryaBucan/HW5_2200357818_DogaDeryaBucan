@@ -22,7 +22,7 @@ This project is a hands-on exploration of **Support Vector Machines (SVMs)** usi
 
 ## Technologies Used
 
-- Python 3
+- Python 
 - `numpy`
 - `matplotlib`
 - `scikit-learn`
